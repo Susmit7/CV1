@@ -1,0 +1,43 @@
+body{
+  background-color:#252a34;
+  background-image: url(b.jpg);
+  background-repeat: no-repeat;
+  background-size:2000px;
+
+
+}
+hr{
+  border-color:black;
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 3%;
+
+}
+h1{
+  color: #252a34;
+
+}
+h3{
+  color:#252a34;
+  text-align: center;
+}
+p{
+  color:#5e227f;
+  text-indent: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+li{
+  color:#5e227f;
+  font-size: 20px;
+}
+td{
+  text-align: center;
+  color:#5e227f;
+  font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+}
